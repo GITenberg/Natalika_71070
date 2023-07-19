@@ -1,0 +1,43 @@
+_repo: Natalika_71070
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hirn, Karin
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '56064'
+    url: http://www.gutenberg.org/2009/agents/56064
+    wikipedia: https://sv.wikipedia.org/wiki/Karin_Hirn
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Koizumi, Yakumo
+    - Hearn, Patrick Lafcadio
+    - Xiaoquan, Bayun
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: https://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: 'Translated selections from: Stray leaves from strange literature.'
+gutenberg_issued: '2023-06-29'
+identifiers:
+  gutenberg: '71070'
+language: sv
+pgterms:marc905: 20230613125623hearn
+pgterms:marc906: '1905'
+pgterms:marc907: SE
+production_note: Jari Koivisto
+publication_note: '  $aSweden :$bWahlström & Widstrand, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Legends'
+- !lcsh 'Tales'
+- !lcc 'PS'
+- GITenberg
+title: Natalika
+url: http://www.gutenberg.org/ebooks/71070
